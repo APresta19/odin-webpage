@@ -86,22 +86,9 @@ h1
     margin: 50px 400px;
     border-radius: 5px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 25px 125px;
-}
-.left
-{
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    
-}
-.right
-{
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
 }
 .group-four h6
 {
